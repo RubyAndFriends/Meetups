@@ -1,6 +1,6 @@
 # Meetups
 
-List of past and future meetups
+List of past and future meetups of the Barcelona on Rails @bcnrails Ruby user group
 
 | Date       | Location | Summary               | Speakers                                          | Links |
 |:-----------|:---------|:----------------------|:--------------------------------------------------|:------|
